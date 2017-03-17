@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B76F059F1E73860500722177 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76F059E1E73860500722177 /* AppDelegate.swift */; };
-		B76F05A11E73860500722177 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76F05A01E73860500722177 /* ViewController.swift */; };
+		B76F05A11E73860500722177 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76F05A01E73860500722177 /* MainViewController.swift */; };
 		B76F05A41E73860500722177 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76F05A21E73860500722177 /* Main.storyboard */; };
 		B76F05A71E73860500722177 /* Tipro_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B76F05A51E73860500722177 /* Tipro_1.xcdatamodeld */; };
 		B76F05A91E73860500722177 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76F05A81E73860500722177 /* Assets.xcassets */; };
@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		B76F059B1E73860500722177 /* Tipro_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipro_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B76F059E1E73860500722177 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B76F05A01E73860500722177 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B76F05A01E73860500722177 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		B76F05A31E73860500722177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B76F05A61E73860500722177 /* Tipro_1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Tipro_1.xcdatamodel; sourceTree = "<group>"; };
 		B76F05A81E73860500722177 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				B76F059E1E73860500722177 /* AppDelegate.swift */,
-				B76F05A01E73860500722177 /* ViewController.swift */,
+				B76F05A01E73860500722177 /* MainViewController.swift */,
 				B76F05A21E73860500722177 /* Main.storyboard */,
 				B76F05A81E73860500722177 /* Assets.xcassets */,
 				B76F05AA1E73860500722177 /* LaunchScreen.storyboard */,
@@ -139,7 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B76F05A11E73860500722177 /* ViewController.swift in Sources */,
+				B76F05A11E73860500722177 /* MainViewController.swift in Sources */,
 				B76F05A71E73860500722177 /* Tipro_1.xcdatamodeld in Sources */,
 				B76F059F1E73860500722177 /* AppDelegate.swift in Sources */,
 			);
